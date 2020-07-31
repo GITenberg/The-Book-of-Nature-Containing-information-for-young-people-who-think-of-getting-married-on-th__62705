@@ -1,0 +1,28 @@
+_repo: The-Book-of-Nature-Containing-information-for-young-people-who-think-of-getting-married-on-th__62705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ashton, James, active 1875-1876
+    gutenberg_agent_id: '52083'
+    url: http://www.gutenberg.org/2009/agents/52083
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex'
+- !lcsh 'Marriage'
+- !lcsh 'Pregnancy'
+- !lcc 'HQ'
+- !lcsh 'Contraception'
+- GITenberg
+title: "The Book of Nature\r\nContaining information for young people who think of\
+  \ getting married, on the philosophy of procreation and sexual intercourse, showing\
+  \ how to prevent conception and to avoid child-bearing: also, rules for management\
+  \ during labor and child-birth"
+url: http://www.gutenberg.org/ebooks/62705
